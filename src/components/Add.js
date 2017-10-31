@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-
+import axios from 'axios';
 import ConfirmModal from './subcomponents/ConfirmModal';
 
 // import axios
@@ -20,7 +20,21 @@ class Add extends Component {
     }
 
     // insert post function
-    
+    post(){
+        let body = {
+            title: this.state.title,
+            subTitle: this.state.subTitle,
+            image: this.state.image,
+            text: this.state.text
+        }
+        axios.post(`/api/blogs`, body).then(res=>{
+            this.setState({
+                searchResults: res.data
+            })
+        }).catch(console.log)
+        //  how to get the results value here? ---> this.props.history.push(`/blog/${res.data.id}`)
+        
+    }
     
     render() {
         let {title, subTitle, image, text} = this.state;

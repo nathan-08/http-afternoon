@@ -127,14 +127,7 @@
       "featured": false
     },
     {
-      "id": 13,
-      "name": "Emily Keator",
-      "userID": 2,
-      "image": "https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif",
-      "title": "How to Smash a Computer",
-      "subTitle": "It's only $1000",
-      "text": "Step 1: Place computer on a solid surface. \nStep 2: Obtain sledgehammer. \nStep 3: Raise hammer above head, 45 degree angle. \nStep 4: ARE YOU CRAZY DON'T SMASH YOUR COMPUTER THAT THING IS EXPENSIVE AND YOU WILL FIND THE ERROR! \nStep 5: Yoga.",
-      "featured": true
+      "id": 13
     },
     {
       "id": 14,
@@ -166,14 +159,7 @@
       "text": "Earlier this year, on or around the 5th of april, as I was lying on my bed listening to my favorite podcast series, a strange, dark feeling began to come over me.\nThis was not something I had experienced before, but somehow I knew what it meant. It felt like a demon, from the very depths of my stomach were awaking after years - NAY - centuries of slumber! An unbearably intense desire began to enter my soul, and a single thought was dominating my mind...\n\n'NO!', I thought! 'I cannot stoop so low! I must resist!' This was the singular defense I had available to me. But alas, I was weak. I began to reach for my keys. Out the door I went, into the car, and off to where there was no return.\n\nWith my destination in sight, I began to rethink my entire existence.\n\nThere in the drive-thru line I waited patiently, slowing moving forward to my demise. Just then, the voice of the Devil himself echoed through the speakers... 'Welcome to Taco Bell...'\n\nI knew my life was over...\n\nThe end"
     },
     {
-      "id": 17,
-      "name": "Bryan Smith",
-      "userID": 10,
-      "image": "https://static1.squarespace.com/static/58680ce2d1758e371522bf7f/5868b4695016e16d593b7a3d/58db1d895016e15e289c9b3d/1490759681172/Opa.JPG?format=2500w",
-      "title": "It's just code, Bro",
-      "subTitle": "An Ode to Code",
-      "text": "'Hello, world!' The students would type, Learning to code both day and night.\n\n for loops, if statements, React and const, learning this stuff might take you several months. \n\n Lucky for you, DevMountain is here. Lets change that career path for this is your year! \n\n You'll decide between Atom, Sublime and VSCode while we take you down this road we know as Node. \n\n content, padding, border and margin? Join us as we plant the seeds to a beautiful CSS garden. \n\n Off you go, forming opinions. PC or Mac? Tabs or spaces? quotes or string interpolation? \n\n Look at you now, the Jr Dev. So much has crammed into your head.\n\n\n return.",
-      "featured": true
+      "id": 17
     },
     {
       "id": 18,
@@ -221,6 +207,83 @@
       "image": "https://unsplash.it/700/400",
       "text": "dasj;lfksjfl;aksdjflaskj",
       "id": 22
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 23
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 24
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 25
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 26
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 27
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 28
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 29
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 30
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 31
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 32
+    },
+    {
+      "title": "that time when...",
+      "subTitle": "when...",
+      "image": "https://goo.gl/images/8Bwu3H",
+      "text": "this one time when this thing happened, then afterwards it was finally over. ",
+      "id": 33
     }
   ],
   "users": [
